@@ -1,0 +1,10 @@
+Package: meancalculator
+Title: A package for calculating mean and displaying highest and least number.
+Version: 0.1.0
+Authors@R: 
+    person("Kirthi", "Aki", email = "kirthi.aki@example.com", role = c("aut", "cre"))
+Description: This package provides three functions: mean_calculator() to calculate the mean of a given set of numbers, highest_number() to display the highest number in a given set of numbers, and least_number() to display the least number in a given set of numbers.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
